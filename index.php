@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    ini test github
+    ini test github, di branch terbaru yakni branch_1
 </body>
 </html>
